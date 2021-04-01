@@ -67,7 +67,7 @@
     "lolex": "3.0.0",
     "moleculer-repl": "0.5.3",
     "mqtt": "2.18.8",
-    "msgpack5": "4.2.1",
+    "msgpack5": "4.5.1",
     "nats": "1.0.1",
     "node-nats-streaming": "0.0.51",
     "nodemon": "1.18.7",
